@@ -8,5 +8,5 @@ Experienced Full Stack Engineer 👨‍💼 with a demonstrated history 🌍 of 
 - 🌱 I’m currently learning API Designs
 - 📫 How to reach me: girish.kotte1@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/girish-kotte-61168816b/
-- ⚡️ Website: www.girishkotte.com
+- ⚡️ Website:  http://girishkotte.com/
 - 🗣 Medium: https://medium.com/@girish.kotte1
