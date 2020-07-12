@@ -1,6 +1,6 @@
 ### Hi There 👋 I'm Girish Kotte 👨‍💻
 
-- ![](https://github.com/girishkotte/girishkotte/blob/master/Images/girish.png)
+ ![](https://github.com/girishkotte/girishkotte/blob/master/Images/girish.png)
 
 Experienced Full Stack Engineer 👨‍💼 with a demonstrated history 🌍 of working ✍️ in the information technology and services industry. Skilled in Ruby On Rails 🎯, Full-Stack Development, ReactJS, JavaScript, and AWS 🖥 .
 
