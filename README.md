@@ -1,4 +1,4 @@
-### Hi There 👋 I'm Girish Kotte 👨‍💻  🌱 Texas, USA 🚶🏻‍♂️ [![Visitors](https://visitor-badge.glitch.me/badge?page_id=girishkotte.visitor-badge)](https://github.com/girishkotte)
+### Hi There 👋 I'm Girish Kotte 👨‍💻  🌱  Texas, USA  🚶🏻‍♂️ [![Visitors](https://visitor-badge.glitch.me/badge?page_id=girishkotte.visitor-badge)](https://github.com/girishkotte)
 <img src="https://github.com/girishkotte/girishkotte/blob/master/Images/girish.png" width="250" height="250" alt="html logo"/> 
 
 Experienced Full Stack Engineer 👨‍💼 with a demonstrated history 🌍 of working ✍️ in the information technology and services industry. Skilled in Ruby On Rails 🎯, Full-Stack Development, ReactJS, JavaScript, and AWS 🖥 .
